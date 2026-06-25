@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="page_background">#F4F7F5</color>
+    <color name="card_background">#FFFFFFFF</color>
+    <color name="text_primary">#17201B</color>
+    <color name="text_secondary">#66736C</color>
+    <color name="divider">#D8DED9</color>
+    <color name="primary_button">#2E7D4F</color>
+    <color name="primary_button_pressed">#25663F</color>
+    <color name="secondary_button">#F8FBF9</color>
+    <color name="secondary_button_pressed">#E8EFEA</color>
+    <color name="input_background">#FBFDFB</color>
+    <color name="button_disabled">#D8DED9</color>
+    <color name="button_disabled_text">#8A958E</color>
+    <color name="primary_button_text">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
